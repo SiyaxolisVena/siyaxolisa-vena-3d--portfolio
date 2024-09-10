@@ -22,7 +22,6 @@ import threejs from "./tech/threejs.svg";
 import bootstrap from "./tech/bootstrap.png";
 import resume from "./tech/Resume.pdf";
 import hero from "./hero.png";
-import githubprofile from "./githubprofile.png";
 
 export {
   backend,
@@ -47,6 +46,5 @@ export {
   threejs,
   hero,
   bootstrap,
-  githubprofile,
   resume,
 };
